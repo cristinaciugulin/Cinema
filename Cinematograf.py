@@ -13,5 +13,6 @@ class Cinematograf:
     film6 = Drama("Titanic", 178, "drama")
     film7 = Film("Fight Club", 139, "actiune")
     film8 = Animatie("Ratatouille", 111, "animatie", "romana")
+    film8 = Drama("Yes Man", 119, "drama")
 
     lista_filme=[film1,film2,film3,film4,film5,film6,film7, film8]
